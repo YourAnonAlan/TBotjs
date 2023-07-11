@@ -34,7 +34,7 @@ bot.help((ctx) => {
 //My Creator command
 bot.command("mycreator" , (ctx) => {
   ctx.reply(
-    "My Creator Info \n \n  Name : Ye Yint \n \n Age : 21\n \n FB : www.facebook.com/YourAnonAlan899\n \n YouTube : https://youtube.com/@onlybeatrixexemm \n\n TikTok : www.tiktok.com/@hallar899"
+    "My Creator Info \n \n  Name : Ye Yint \n \n Age : 22\n \n FB : www.facebook.com/YourAnonAlan899\n \n YouTube : https://youtube.com/@onlybeatrixexemm \n\n TikTok : www.tiktok.com/@hallar899"
   );
 });
 
